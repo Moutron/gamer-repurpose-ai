@@ -1,0 +1,15 @@
+# Git files
+.git
+.gitignore
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Project files
+.env.local
+node_modules
+.next
+README.md
+npm-debug.log
+.DS_Store 
